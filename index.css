@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald|Roboto&display=swap');
 body {
     background-color: yellow;
+    margin: 0;
   }
 #text-color{
     color: red;
@@ -21,7 +22,7 @@ body {
     padding-top: 2em;
 }
 
-.p-body{
+.bodyPara{
     color: orange;
     font-family: 'Oswald', sans-serif;
 }
@@ -29,4 +30,6 @@ body {
     background-color: black;
     color: white;
     font-weight: bold;
+    margin: 0;
+    padding: 0;
 }
