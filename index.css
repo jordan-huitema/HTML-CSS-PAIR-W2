@@ -1,14 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald|Roboto&display=swap');
 body {
     background-color: yellow;
   }
 #text-color{
     color: red;
 }
-.h1-color{
-    color: blue;
+#headerH1{
+    color: black;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 3em;
+    margin: 0;
+    padding-top: 6px;
 }
+#headerImg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    padding-top: 2em;
+}
+
 .p-body{
     color: orange;
+    font-family: 'Oswald', sans-serif;
 }
 .footer{
     background-color: black;
