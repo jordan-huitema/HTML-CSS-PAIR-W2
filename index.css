@@ -1,3 +1,6 @@
+body {
+    background-color: yellow;
+  }
 #text-color{
     color: red;
 }
@@ -6,4 +9,7 @@
 }
 .p-body{
     color: orange;
+}
+#spcl-img{
+    height: 300px;
 }
