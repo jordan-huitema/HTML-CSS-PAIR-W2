@@ -12,7 +12,7 @@ body {
     font-family: 'Oswald', sans-serif;
     font-size: 3em;
     margin: 0;
-    padding-top: 6px;
+    padding-top: 10px;
 }
 #headerImg {
     display: block;
@@ -22,9 +22,29 @@ body {
     padding-top: 2em;
 }
 
-.bodyPara{
-    color: orange;
+.formHeading {
+    color: black;
+    text-align: center;
     font-family: 'Oswald', sans-serif;
+    font-size: 2.3em;
+    font-weight: 400;
+    margin: 0;
+}
+
+form {
+    padding: 0 30px 30px 30px;
+    margin:  0 35% 0 35%;
+    text-align: center;
+    margin-bottom: 3em;
+    border: 5px solid black;
+}
+
+.bodyPara{
+    color: black;
+    font-family: 'Oswald', sans-serif;
+    margin: 0 10em 0 10em;
+    font-size: 1em;
+    background-color: #fff;
 }
 #footer{
     background-color: black;
