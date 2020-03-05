@@ -46,21 +46,5 @@ form {
     font-size: 1em;
     background-color: #fff;
 }
-footer{
-    background-color: black;
-    align-items:center;
-    margin: 0;
-    padding: 0;
-    display: block;
-    height: 5%;
-}
-li {
-    margin:10px;
-    padding:0;
-    display:block;
-    float:left;
-    font-weight: bold;
-}
-
 
 
